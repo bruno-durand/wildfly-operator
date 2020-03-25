@@ -5,6 +5,7 @@ metadata:
 spec:
   applicationImage: "quay.io/wildfly-quickstarts/wildfly-operator-quickstart:18.0"
   size: 2
+  replicas: 2
   storage:
     volumeClaimTemplate:
       spec:
