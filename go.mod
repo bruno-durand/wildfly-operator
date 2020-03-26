@@ -28,6 +28,7 @@ require (
 	github.com/gregjones/httpcache v0.0.0-20190212212710-3befbb6ad0cc // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
+	github.com/josharian/impl v0.0.0-20191119165012-6b9658ad00c7 // indirect
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2 // indirect
 	github.com/mailru/easyjson v0.0.0-20190221075403-6243d8e04c3f // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
@@ -41,13 +42,14 @@ require (
 	github.com/prometheus/procfs v0.0.0-20190306233201-d0f344d83b0c // indirect
 	github.com/sirupsen/logrus v1.4.1 // indirect
 	github.com/spf13/pflag v1.0.3
-	github.com/stretchr/testify v1.3.0
+	github.com/stamblerre/gocode v1.0.0 // indirect
+	github.com/stretchr/testify v1.4.0
 	github.com/tevino/abool v0.0.0-20170917061928-9b9efcf221b5
 	go.uber.org/atomic v1.3.2 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.9.1 // indirect
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4 // indirect
 	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
+	golang.org/x/tools/gopls v0.3.3 // indirect
 	k8s.io/api v0.0.0-20190222213804-5cb15d344471
 	k8s.io/apimachinery v0.0.0-20190221213512-86fb29eff628
 	k8s.io/client-go v0.0.0-20181213151034-8d9ed539ba31
